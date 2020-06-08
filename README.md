@@ -20,4 +20,10 @@ Following is the running info -
 
 To run the program, use make to compile and then run by executing bin/./Earth in the command line.
 
+A short video has been provided along with the code folder.
 
+Here are two snapshots of the model.
+
+![](Earth1.png)
+
+![](Earth2.png)
